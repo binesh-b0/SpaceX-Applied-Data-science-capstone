@@ -18,7 +18,7 @@ The primary goal of this project is to derive actionable insights from SpaceX la
 
 ## Data Sources
 
-All data utilized in this project is sourced from the official [SpaceX API](https://github.com/r-spacex/SpaceX-API).
+All data utilized in this project is sourced from the official [SpaceX API].
 
 ## Technologies Used
 - Python
