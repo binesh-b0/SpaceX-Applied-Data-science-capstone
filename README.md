@@ -31,7 +31,7 @@ All data utilized in this project is sourced from the official [SpaceX API](http
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/spacex-capstone.git
+    git clone https://github.com/binesh-b0/SpaceX-Applied-Data-science-capstone.git
     ```
     
 2. Navigate to the directory:
